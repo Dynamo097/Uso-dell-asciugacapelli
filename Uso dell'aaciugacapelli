@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tutorial: Come Usare l'Asciugacapelli</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f0f4f8;
+            color: #333;
+        }
+        header {
+            background: #0077cc;
+            color: white;
+            padding: 25px;
+            text-align: center;
+        }
+        main {
+            max-width: 900px;
+            margin: 30px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+        }
+        .step {
+            margin-bottom: 35px;
+            padding: 20px;
+            border-left: 6px solid #0077cc;
+            background: #f9fcff;
+            border-radius: 6px;
+        }
+        .step h2 {
+            margin-top: 0;
+            color: #0077cc;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background: #222;
+            color: white;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Tutorial: Come Usare Correttamente l'Asciugacapelli</h1>
+</header>
+
+<main>
+
+    <div class="step">
+        <h2>1. Preparazione dei capelli</h2>
+        <p>Prima di accendere l'asciugacapelli, tampona i capelli con un asciugamano per rimuovere l'eccesso d'acqua. Questo riduce i tempi di asciugatura e lo stress termico sui capelli.</p>
+    </div>
+
+    <div class="step">
+        <h2>2. Districa i capelli</h2>
+        <p>Usa un pettine a denti larghi o una spazzola delicata per sciogliere eventuali nodi. Questo permette un’asciugatura più uniforme.</p>
+    </div>
+
+    <div class="step">
+        <h2>3. Imposta la temperatura</h2>
+        <p>Scegli una temperatura media. Le alte temperature vanno usate solo per poco tempo o in casi specifici. Una temperatura moderata protegge la struttura del capello.</p>
+    </div>
+
+    <div class="step">
+        <h2>4. Mantieni la giusta distanza</h2>
+        <p>Tieni l’asciugacapelli a circa 20 cm dai capelli. Una distanza minore può causare secchezza e danni.</p>
+    </div>
+
+    <div class="step">
+        <h2>5. Usalo con movimenti continui</h2>
+        <p>Non soffermarti troppo su una singola zona. Muovi il phon in modo costante e uniforme per evitare il surriscaldamento.</p>
+    </div>
+
+    <div class="step">
+        <h2>6. Usa gli accessori</h2>
+        <ul>
+            <li><strong>Diffusore:</strong> ideale per capelli ricci.</li>
+            <li><strong>Beccuccio stretto:</strong> perfetto per una piega liscia e precisa.</li>
+        </ul>
+    </div>
+
+    <div class="step">
+        <h2>7. Colpo d’aria fredda</h2>
+        <p>Quando hai quasi finito, usa il tasto “aria fredda”. Aiuta a fissare la piega e a rendere i capelli più lucidi.</p>
+    </div>
+
+    <div class="step">
+        <h2>8. Sicurezza e manutenzione</h2>
+        <ul>
+            <li>Non usare l’asciugacapelli vicino all’acqua.</li>
+            <li>Non coprire mai le prese d’aria.</li>
+            <li>Pulisci il filtro posteriore regolarmente.</li>
+        </ul>
+    </div>
+
+</main>
+
+<footer>
+    © 2025 Tutorial Asciugacapelli
+</footer>
+
+</body>
+</html>
